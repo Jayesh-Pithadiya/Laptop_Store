@@ -1,14 +1,14 @@
-Project Name:- LAPTOP_STORE
+*Project Name:- LAPTOP_STORE 
+----------------------- 
+*Functionality 
 -----------------------
-functionality
------------------------
-Admin side /n
-View Card /n
-Add Card 
-Wishlist
-searching Features
+Admin side, 
+View Card, 
+Add Card, 
+Wishlist, 
+searching Features. 
 
-Data-base
+*Data-base
 ---------------------
 My-SQl 
 Feaching Data from database 
