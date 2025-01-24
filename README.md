@@ -2,8 +2,8 @@ Project Name:- LAPTOP_STORE
 -----------------------
 functionality
 -----------------------
-Admin side
-View Card
+Admin side /n
+View Card /n
 Add Card 
 Wishlist
 searching Features
